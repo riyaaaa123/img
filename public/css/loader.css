@@ -48,16 +48,19 @@ color: #f5eafc;
   z-index: 1000;
 }
 10% {
-  color: rgb(52, 28, 210);
+  color: rgb(93, 13, 139);
   z-index: 1000;
 }
 15% {
-  color: rgb(24, 42, 177);
+  color: rgb(91, 14, 101);
   z-index: 1000;
 }
 20% {
-  color: rgb(175, 110, 208);
+  color: rgb(150, 32, 183);
   z-index: 1000;
+}
+25%{
+  color: rgb(196, 83, 170);
 }
 100% {
   color: #f5eafc;
@@ -71,16 +74,20 @@ color: #f5eafc;
   color: rgb(0, 0, 0);
 }
 10% {
-  color: rgb(52, 28, 210);
+  color: rgb(93, 13, 139);
   z-index: 1000;
 }
 15% {
-  color: rgb(24, 42, 177);
+  color: rgb(91, 14, 101);
   z-index: 1000;
 }
 20% {
-  color: rgb(175, 110, 208);
+  color: rgb(150, 32, 183);
+  color: rgb(91, 14, 101);
   z-index: 1000;
+}
+25%{
+  color: rgb(196, 83, 170);
 }
 100% {
   color: #f5eafc;
@@ -93,16 +100,21 @@ color: #f5eafc;
   color: black;
 }
 10% {
-  color: rgb(52, 28, 210);
+  color: rgb(93, 13, 139);
   z-index: 1000;
 }
 15% {
-  color: rgb(24, 42, 177);
+  
+  color: rgb(91, 14, 101);
   z-index: 1000;
 }
 20% {
-  color: rgb(175, 110, 208);
+  color: rgb(150, 32, 183);
+  
   z-index: 1000;
+}
+25%{
+  color: rgb(196, 83, 170);
 }
 100% {
   color: #f5eafc;

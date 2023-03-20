@@ -120,3 +120,35 @@ body{
     color: rgb(128, 63, 128);
     text-decoration: underline;
 }
+.Text{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: 'Amatic SC', cursive;
+    
+    color: azure;
+    animation: topic 1s infinite;
+
+}
+.mainText{
+   
+    display: flex;
+    height:var(--nav-content-height) ;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+@keyframes topic {
+    0% {
+      color: black;
+    }
+    100% {
+      color: white;
+      
+      
+    }
+    }

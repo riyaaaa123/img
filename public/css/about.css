@@ -3,7 +3,7 @@
            
             padding: 0px;
             margin: 0px;
-            background-color: rgb(197, 180, 159)  ;
+            background-color: rgb(192, 101, 197)  ;
         }
         /* body{
             background-image: url('/image/avengers_bg.jpg');
@@ -11,14 +11,41 @@
         h1{
             padding: 45px;
             font-size: 60px;
-            background-color: aliceblue;
+            background-color: #f5eafc;
         
-            color:black;
+            color:black; 
         }
         div{
-            
-              padding: 10px 450px;
-              font-size: 24px;
+          
+            color: white;
+              /* padding: 10px 450px; */
+              
         }
+        div ul, div p{
+          font-family: 'Kalam', cursive;
+          
+          font-size: 1.75rem;
+          /* width: 60%; */
+          padding: 2vh 20vw;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+        div ul li{
+          text-align: center;
+        }
+        .home{
+         
+            height: 1.5rem;
+            width: 5%;
+            position: absolute;
+            top: 2vh;
+            right: 2vw;
+            font-size: 1rem;
+          }
+          .home a{
+            color: white;
+            text-decoration: none;
+          }
     
 

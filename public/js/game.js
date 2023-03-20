@@ -70,7 +70,7 @@ let questions = [
         "choice2": "SMASH",
         "choice3": "PUNCH",
         "choice4": "SLAM",
-        "answer": 3
+        "answer": 2
       },
       {
         "question":"What was name of Thor’s love interest in the MCU?",
